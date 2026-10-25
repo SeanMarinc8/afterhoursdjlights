@@ -10,7 +10,7 @@ st.title("⚡ AFTERHOURS VJ")
 st.caption("WAREHOUSE VISUAL ENGINE  •  BASS-REACTIVE  •  THREE-SCREEN READY")
 st.write("Run the live visualizer in a separate browser tab. This dashboard is your setup guide; the visualizer has its own live controls and microphone access.")
 st.info("Open **/app/static/visuals.html** on the same Streamlit site. For example: `https://YOUR-APP.streamlit.app/app/static/visuals.html`. If you're running locally, use `http://localhost:8501/app/static/visuals.html`.")
-st.link_button("⚡ OPEN VISUAL ENGINE", "/app/static/visuals.html", use_container_width=True)
+st.link_button("⚡ OPEN VISUAL ENGINE", "https://afterhoursdjlights-afnn8ngerfc3xc4caj3r5g.streamlit.app/app/static/visuals.html", use_container_width=True)
 a,b,c=st.columns(3)
 with a:
     st.subheader("01 · AUDIO")
